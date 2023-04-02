@@ -19,4 +19,4 @@ My contributions to the [#30DayChartChallenge](https://30daychartchallenge.org),
 
 ### [Day 1](https://github.com/jacobjameson/30DayChartChallenge2023/tree/main/Day1-part-to-whole) Part-to-whole: Rural Hospital Closures
 
-![./part-to-whole/part-to-whole.png](https://raw.githubusercontent.com/jacobjameson/30DayChartChallenge/tree/main/Day1-part-to-whole/part-to-whole.png)
+![./Day1-part-to-whole/part-to-whole/part-to-whole.png](https://raw.githubusercontent.com/jacobjameson/30DayChartChallenge/tree/main/Day1-part-to-whole/part-to-whole.png)
