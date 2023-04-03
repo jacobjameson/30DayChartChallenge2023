@@ -26,3 +26,12 @@ My contributions to the [#30DayChartChallenge](https://30daychartchallenge.org),
 ### [Day 2](https://github.com/jacobjameson/30DayChartChallenge2023/tree/main/Day2-waffle) Waffle: Easy Waffles
 
 ![](https://github.com/jacobjameson/30DayChartChallenge2023/blob/main/Day2-waffle/waffle.png)
+
+
+
+### [Day 3](https://github.com/jacobjameson/30DayChartChallenge2023/tree/main/Day3-fauna_flora) Fauna/Flora: Hoyas
+
+![](https://github.com/jacobjameson/30DayChartChallenge2023/blob/main/Day3-fauna_flora/fauna_flora.png)
+
+
+
